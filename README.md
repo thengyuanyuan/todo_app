@@ -1,6 +1,6 @@
 # todo_app
 
-A new Flutter project.
+A Flutter project. Simple To-Do App utilised BloC. Following Tutorial from Youtube.
 
 ## Getting Started
 
