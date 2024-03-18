@@ -56,7 +56,7 @@ class _MyHomePageState extends State<MyHomePage> {
               style: Theme.of(context).textTheme.headlineMedium,
             ),
             const Text(
-              'Added some text',
+              'Added some text here',
             ),
           ],
         ),
