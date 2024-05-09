@@ -23,11 +23,9 @@ class MainApp extends StatelessWidget {
       title: 'Todo App',
       theme: ThemeData(
         colorScheme: const ColorScheme.light(
-          background: Colors.white,
-          onBackground: Colors.black,
-          primary: Colors.pinkAccent,
+          primary: Colors.greenAccent,
           onPrimary: Colors.black,
-          secondary: Colors.lightBlueAccent,
+          secondary: Colors.yellowAccent,
           onSecondary: Colors.white,
         ),
       ),
